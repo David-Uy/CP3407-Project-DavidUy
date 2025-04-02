@@ -6,7 +6,7 @@ Alternate titles: Appointment calendar, My schedule
 Allows cleaners to manage time efficiently. Needed early to validate booking logic.
 
 ## Estimation: 3 days
-* Bob: 3 days
+* David: 3 days
 
 
 ## Assumptions:

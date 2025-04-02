@@ -2,7 +2,7 @@
 
 1. Book a Cleaning Service
    - As a user, I want to book a cleaner for a specific date and time, so that my place gets cleaned.
-   - Estimate: 5 days
+   - Estimate: 2 days
    - Priority: 10
 
 2. Register as Service Provider
@@ -12,13 +12,13 @@
 
 3. Login and SignUp
    - As a user, I want to be able to login and sign up so that I can book a cleaning service.
-   - Estimate: 3 days
+   - Estimate: 2 days
    - Priority: 20
 
 
 4. View Booking Calendar
    - As a cleaner, I want to see my upcoming appointments, so I can manage my time.
-   - Estimate: 4 days
+   - Estimate: 3 days
    - Priority: 20
 
 5. Message Between Users

@@ -6,8 +6,7 @@ Alternate titles: In-app chat, Pre-job communication
 Nice-to-have feature for user convenience. Can be postponed if time is limited.
 
 ## Estimation: 5 days
-* Bob: 5 days
-* Lisa: 5 days
+* David : 5 days
 
 ## Assumptions:
 - Users must be logged in to use messaging

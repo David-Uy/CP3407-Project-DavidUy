@@ -10,7 +10,7 @@ This is a core feature for customers. Required early to test booking flow.
 
 ## Estimation: 2 days
 Any notes on estimation go here. Keep your planning poker game numbers. For example
-* David: 1 day
+* David: 2 day
 
 
 ## Assumptions (if any):

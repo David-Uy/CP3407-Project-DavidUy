@@ -6,9 +6,8 @@ Alternate titles: Payment feature, Pay via app
 ## Priority: 20
 Important for user experience but mocked to avoid full financial integration
 
-## Estimation: 6 days
-* Bob: 3 days
-* Lisa: 6 days
+## Estimation: 3 days
+* David : 3 Days
 
 ## Assumptions:
 - No real payment gateway required in MVP
