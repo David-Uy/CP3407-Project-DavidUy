@@ -30,7 +30,7 @@ Checklist/TODOs:
 * github entry timestamp is BEFORE the iteration-1
 * User stories are correct: see p39
 * Must have more user stories than fits into iterations 1 and 2. To practice the priority.
-* [user story title](./user_stories/user_story_01_title.md), priority XX, YY days 
+* [user story title](./user_stories/user_story_01_BookCleaning), priority XX, YY days 
 * ...
 
 Total: YY days
@@ -42,7 +42,7 @@ Total: YY days
 * Update the following during each week prac session
 * During pracs, you may experiment with using other github ways of tracking changes, e.g. via pull requests.
 
-1. [user story title](./user_stories/user_story_01_title.md), priority XX, YY days 
+1. [user story title](./user_stories/user_story_01_BookCleaning), priority XX, YY days 
 2. ...
 
 Total: YY days
@@ -50,13 +50,13 @@ Total: YY days
 
 ### Iteration 2 [duration 3-4 weeks], add your start and end dates
 Goal is to have 2 iterations during a trimester of teaching.
-1. [user story title](./user_stories/user_story_01_title.md), priority XX, YY days 
+1. [user story title](./user_stories/user_story_01_BookCleaning), priority XX, YY days 
 2. ...
 
 Total: YY days
 
 ### Not enough time/developers: 
-1. [user story title](./user_stories/user_story_01_title.md), priority XX, YY days 
+1. [user story title](./user_stories/user_story_01_BookCleaning), priority XX, YY days 
 2. ...
 
 Total: YY days
