@@ -3,10 +3,12 @@ How to edit this: test-2025
 * Option-1 (tested and worked ok): PyCharm supports editing of these .md files. Then you need to push to the main branch or make a pull request.
 * Option-2 (tested ok): Edit and commit it directly on github. Then any local repo copies will need to be "updated".
 
-# cp3407-project-v2024 template [Delete or change to your team/project name before submitting]
+# cp3407-project-v2025 MyClean App
 
-This a project assignment template for CP3407. 
-The following is the list of items, which are required to be completed.
+This is a software development project for CP3407 TR1 2025, 
+developed using Agile methodology and GitHub version control. 
+Our goal is to create an application for booking and managing cleaning services.
+
 
 ## How to submit [You may delete this before submitting]
 
@@ -16,11 +18,10 @@ The following is the list of items, which are required to be completed.
 
 ## Team
 
-It is recommended to complete this assignment in a group of 2-4 students.
-1. Student 1
-2. Student name 2
-3. Name 3
-4. Name 4
+I have acquired permission from professor Dmitry Konovalov to complete this project alone.
+
+1. David Uy - Student ID: 14345272
+
 
 
 # Project planning BEFORE iteration-1, (see chapters 1-3)
